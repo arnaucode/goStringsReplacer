@@ -1,0 +1,6 @@
+wordOriginal1 wordToReplace1
+wordOriginal2 wordToReplace2
+potatoes carrot
+green blue
+Hola Hello
+zumo juice
